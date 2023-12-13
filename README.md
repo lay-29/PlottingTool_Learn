@@ -1,2 +1,2 @@
 # PlottingTool_Learn
-ScottPlot.dall LiveChar.dall
+ScottPlot.dall LiveChar.dall 1
