@@ -3,10 +3,10 @@
 *.cache
 *.suo
 
-*.exe
+
 *.CopyComplete
-*.exe
-*.txt
+
+
 Debug/
 Release/
 .vs/
